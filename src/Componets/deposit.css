@@ -1,0 +1,17 @@
+
+/* //var(--joy-palette-text-primary, var(--joy-palette-neutral-800, #23272B))
+ */
+.Typo{
+
+margin-bottom: 80px;
+
+    
+}
+
+.connected {
+    color: green;
+  }
+  
+  .disconnected {
+    color: red;
+  }
